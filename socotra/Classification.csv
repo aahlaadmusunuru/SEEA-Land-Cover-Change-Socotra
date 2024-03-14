@@ -1,0 +1,39 @@
+ESA,SEEA,Classes ,Colors
+0,0,No Data,#000000
+10,2,Herbaceous crops,#ffb24a
+11,2,Herbaceous crops,#ffb24a
+12,3,Woody area,#629448
+20,4,Multiple or Layered crop,#ff9011
+30,4,Multiple or Layered crop,#ff9011
+40,4,Multiple or Layered crop,#ff9011
+50,6,Tree cover areas,#018f33 
+60,6,Tree cover areas,#018f33 
+61,6,Tree cover areas,#018f33 
+62,6,Tree cover areas,#018f33 
+70,6,Tree cover areas,#018f33 
+71,6,Tree cover areas,#018f33 
+72,6,Tree cover areas,#018f33 
+80,6,Tree cover areas,#018f33 
+81,6,Tree cover areas,#018f33 
+82,6,Tree cover areas,#018f33 
+90,6,Tree cover areas,#018f33 
+100,4,Multiple or Layered crop,#ff9011
+110,4,Multiple or Layered crop,#ff9012
+120,8,Shrub cover areas,#966400
+121,8,Shrub cover areas,#966401
+122,8,Shrub cover areas,#966402
+130,5,Grassland,#93cf2c
+140,9,Shrubs and or herbaceous areas,#00dc82
+150,10,Sparsely natural vegetated areas,#ffebaf
+151,10,Sparsely natural vegetated areas,#ffebaf
+152,10,Sparsely natural vegetated areas,#ffebaf
+153,10,Sparsely natural vegetated areas,#ffebaf
+160,7,Mangrove,#94ba96
+170,7,Mangrove,#94ba96
+180,9,Shrubs and or herbaceous areas,#00dc82
+190,1,Artificial surface,#ff1400
+200,11,Terrestrial barren land,#bfbfbf
+201,11,Terrestrial barren land,#bfbfbf
+202,11,Terrestrial barren land,#bfbfbf
+210,13,In land water Bodies,#b3c3e4
+220,12,Permanent snow and glacier,#ffffff
